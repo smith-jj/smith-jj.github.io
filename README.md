@@ -1,2 +1,2 @@
-# smith-jj.github.io-latitude
-Web HW
+# smith-jj.github.io
+Project CV
